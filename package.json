@@ -1,0 +1,8 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dianakoh/typechain.git",
+  "author": "dianakoh <dianakoh94@gmail.com>",
+  "license": "MIT"
+}
